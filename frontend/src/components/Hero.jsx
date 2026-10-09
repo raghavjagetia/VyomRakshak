@@ -41,7 +41,7 @@ export default function Hero() {
     <section className="hero dark">
       <div className="wrap hero-grid">
         <div className="hero-copy">
-          <p className="eyebrow">Air operations planning · PS 26250 · SIH 2026</p>
+          <p className="eyebrow">Air operations planning</p>
           <h1>When the picture changes, <em>the plan should too.</em></h1>
           <p className="lede">Today a tasking order is built from spreadsheets, whiteboards and phone calls, then goes stale the moment a threat appears. VyomRakshak keeps one live picture of aircraft, crews, weapons, airspace and weather, and re-plans against it. The commander still makes the call.</p>
           <div className="cta">
@@ -49,8 +49,6 @@ export default function Hero() {
             <a className="btn btn-ghost" href="#how">See how it works</a>
           </div>
           <dl className="meta">
-            <div><dt>Team</dt><dd>KO_KRAKENS</dd></div>
-            <div><dt>Team ID</dt><dd>185374</dd></div>
             <div><dt>Domain</dt><dd>MoD / DSSC air ops</dd></div>
           </dl>
         </div>

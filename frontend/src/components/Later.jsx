@@ -121,7 +121,7 @@ export function Refs() {
       </section>
       <footer className="foot">
         <div className="wrap">
-          <span>VyomRakshak · Smart India Hackathon 2026 · Problem Statement 26250 · Team KO_KRAKENS (185374)</span>
+          <span>VyomRakshak · Dynamic air operations planning</span>
           <a href="#top">Back to top</a>
         </div>
       </footer>
